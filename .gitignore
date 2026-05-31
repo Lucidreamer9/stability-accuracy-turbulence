@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+
+# Generated artifacts
+turbulence_dataset_multiT/
+train_results_multiT_gradloss/
+*.pth
+*.png
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
